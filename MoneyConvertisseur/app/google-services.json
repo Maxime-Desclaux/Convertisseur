@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718094487612",
+    "firebase_url": "https://moneyconvertisseur-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "moneyconvertisseur",
+    "storage_bucket": "moneyconvertisseur.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718094487612:android:0f821daeb88d29f1bef339",
+        "android_client_info": {
+          "package_name": "com.example.moneyconvertisseur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718094487612-de0o7amdfc3tranr7grs6nqu1l6cu3mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyconvertisseur",
+            "certificate_hash": "1c413ae195909bb119e941ab36fe0f32035ccc92"
+          }
+        },
+        {
+          "client_id": "718094487612-6s307k3nekq0m05id15kuklco6al38ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKKWKvhkVBdFXVnEPSPCBXRYTXJyEkmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718094487612-6s307k3nekq0m05id15kuklco6al38ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
